@@ -5,7 +5,7 @@ using namespace std;
 /*
 * All Prime numbers can be broken into either of:
 * (6n + 1) or (6n + 5)
-* All other numbers which cannot broken like this is consecutive
+* All other numbers which cannot broken like this is composite
 * Exceptions: 2, 3
 *
 * So after checking if number is 2 or 3, we can divide the number by 6 and get the remainder
